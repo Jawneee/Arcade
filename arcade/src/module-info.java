@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author johna
- *
- */
-module arcade {
-}
